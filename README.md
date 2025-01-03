@@ -1,5 +1,5 @@
 # ml-stock-prediction
-This project aims to demonstrate the application of long short-term memory (LSTM) using market data, a type of recurrent neural network (RNN) known for its ability to capture long-term dependencies in sequential data.
+This repository aims to provide a clear understanding of how different types of models perform in stock market prediction. By comparing statistical models like ARIMA with machine learning models (e.g., Random Forest, XGBoost) and deep learning models (LSTM), we can gain insights into which techniques are most effective for predicting stock prices in various market conditions.
 
 
 ## Dataset
